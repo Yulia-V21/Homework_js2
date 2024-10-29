@@ -205,7 +205,7 @@ prompt() соответствующие значения: ваше имя, во�
 //     let year = day / 365;
 //     let mounts = day / 30;
 //     let week = day / 7;
-//     let hour = day * 60;
+//     let hour = day * 24;
 //     let minute = hour *60;
 //     let second = minute * 60;
 
